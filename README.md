@@ -5,7 +5,7 @@
 
 ## Update Log
 |Problem Number|Memory|Time|Language|Code Length|
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 |1000|14264 KB|124 ms|Java 11|604 B|
 |1001|14200 KB|124 ms|Java 11|604 B|
 |10998|14224 KB|124 ms|Java 11|604 B|
